@@ -1,1 +1,2 @@
-# SF_RN
+# RaiseNow - Salesforce
+integration of transactions from raisenow into salesforce
